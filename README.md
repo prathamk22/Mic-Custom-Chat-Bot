@@ -30,8 +30,8 @@ Keynotes kept in mind during creating MIC:
  BOOMMMMMM Here is your Response from that model.
  
  
-**Feel free to Contribute.
+**Feel free to Contribute.**
 
 
-Efforts made by PRATHAM KHURANA**
+**Efforts made by PRATHAM KHURANA**
 

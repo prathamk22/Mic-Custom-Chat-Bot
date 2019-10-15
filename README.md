@@ -14,8 +14,7 @@ Keynotes kept in mind during creating MIC:
   3. Pinch of Google Furnishing
  
  **About MIC**
- 
- This is an android project made by Pratham Khurana for converting person voice into text and having a response back from the Google DialogFlow cusotm trained models which can recognize main Intents and return back found queries. Developer can use those queries to detech the intent and by using those intent can perform different tasks on Android. An great example is as follow:
+ This is an android project made by Pratham Khurana for converting person voice into text and having a replication back from the Google DialogFlow cusotm trained models which can agnize main Intents and return back found queries. Developer can utilize those queries to detech the intent and by utilizing those intent can perform different tasks on Android. An great example is as follow:
  
  Clone or download this project and run in Android Studio.
  
